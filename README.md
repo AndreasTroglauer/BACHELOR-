@@ -1,0 +1,2 @@
+# BACHELOR-
+Kode til eigenvalues 
